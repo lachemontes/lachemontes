@@ -25,13 +25,13 @@ Driven by curiosity and a passion for continuous learning, I explore emerging fi
 
 - 💬 Ask me about:
     - Transcriptome assembly
-    - Gene/protein prediction and identification
+    - Gene/protein identification and prediction
     - HPC
     - R
     - Python
     - Bioinformatics
     - Statistical learning
-    - Machine learning
+    - ML
 
 
 
