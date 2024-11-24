@@ -34,3 +34,6 @@ I am currently in the final stages of my PhD, specializing in genomics and bioin
 
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lachemontes&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
