@@ -26,7 +26,7 @@ Driven by curiosity and a passion for continuous learning, I explore emerging fi
 - 💬 Ask me about:
     - Transcriptome assembly
     - Gene/protein prediction and identification
-    - High-Performance Computing (HPC)
+    - HPC
     - R
     - Python
     - Bioinformatics
