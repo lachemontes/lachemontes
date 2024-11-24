@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 [![](https://visitcount.itsvg.in/api?id=lachemontes&label=mirones&color=0&icon=7&pretty=false)](https://visitcount.itsvg.in)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lachemontes&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## Hi there,
 ### I am Zaide 👩🏼‍💻 (she/her) 🌱✨🧬 
@@ -32,6 +32,10 @@ I am currently in the final stages of my PhD, specializing in genomics and bioin
     - Bioinformatics
     - Statistical learning
     - ML
+ 
+      |                             |                             |
+|-----------------------------|-----------------------------|
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lachemontes&layout=compact) |  |
 
 
 
