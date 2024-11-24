@@ -1,4 +1,8 @@
-[![Header](https://capsule-render.vercel.app/api?type=wave&section=header&color=222436&fontColor=FF757F&fontAlignY=50&height=250&text=&desc=Welcome%20to%20my%20GitHub&descAlignY=25&animation=fadeIn&fontSize=35&link=https://github.com/lachemontes)](https://github.com/lachemontes)
+
+
+[![Header](https://capsule-render.vercel.app/api?type=wave&section=header&color=222436&fontColor=659287&fontAlignY=50&height=250&text=&desc=Welcome%20to%20my%20GitHub&descAlignY=25&animation=fadeIn&fontSize=50&link=https://github.com/lachemontes)](https://github.com/lachemontes)
+
+
 <!--
 **lachemontes/lachemontes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
