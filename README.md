@@ -36,4 +36,10 @@ I am currently in the final stages of my PhD, specializing in genomics and bioin
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lachemontes&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+<a href="https://github.com/lachemontes/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lachemontes&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/lachemontes/your-second-repo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lachemontes&repo=your-second-repo" />
+</a>
 
