@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **lachemontes/lachemontes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,21 +16,20 @@ Here are some ideas to get you started:
 
 [![](https://visitcount.itsvg.in/api?id=lachemontes&label=mirones&color=0&icon=7&pretty=false)](https://visitcount.itsvg.in)
 
-### About Me
+## Hi there,
+### I am Zaide 👩🏼‍💻 (she/her) 🌱✨🧬 
 
-I am in the final stages of my PhD. I specialize in genomics and bioinformatics, where I’ve developed a robust analytical mindset. With a keen interest in leveraging technology for data-driven insights, I am actively expanding my skill set to embrace new horizons in data science.
-
-Driven by curiosity and a passion for continuous learning, I explore emerging fields like AI. 
+I am currently in the final stages of my PhD, specializing in genomics and bioinformatics, with a background as a computational biology from Colombia 🇨🇴, now living in Sweden 🇸🇪. With a keen interest in leveraging technology for data-driven insights, I am actively expanding my skill set to embrace new horizons in data science. Driven by curiosity and a passion for continuous learning, I explore emerging fields such as AI.
 
 - 💬 Ask me about:
     - Transcriptome assembly
     - Gene/protein identification and prediction
     - HPC
-    - R
-    - Python
+    - R  
+    - Bash 
+    - Python 
     - Bioinformatics
     - Statistical learning
     - ML
-
 
 
