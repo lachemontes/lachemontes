@@ -19,10 +19,11 @@ I am passionate about leveraging technology to extract meaningful insights from 
 - **Programming:**  
   R, Python, Bash  
 - **Bioinformatics:**  
-  - Transcriptome assembly  
-  - Gene/protein identification and prediction  
   - HPC   
-  - Statistical learning 
+  - Statistical learning
+  - Transcriptome/Genome assembly  
+  - Gene/protein identification and prediction  
+  - Comparative genomics
 - **Emerging Interests:**  
   - AI applications in genomics  
 
