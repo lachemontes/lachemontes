@@ -7,7 +7,7 @@
 ## 👋 Hi there,
 ### I am **Zaide Montes Ortiz** 👩🏼‍💻 (she/her) 🌱✨🧬 
 
-I am in the final stages of my PhD, specializing in **genomics** and **bioinformatics**, with a background in **computational biology**.  
+I am in the final stages of my PhD at [Lund University](https://www.lunduniversity.lu.se/), specializing in **genomics** and **bioinformatics**, with a background in **computational biology**.  
 Originally from **Colombia 🇨🇴** and now based in **Sweden 🇸🇪**, Previously a graduate student studying in the [BCEM](https://bcem-uniandes.github.io/) lab at [Uniandes](https://www.uniandes.edu.co/).
 
 ✨ **What drives me?**  
