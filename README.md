@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 ## Hi there,
 ### I am Zaide 👩🏼‍💻 (she/her) 🌱✨🧬 
 
-I am in the final stages of my PhD, specializing in genomics and bioinformatics, with a strong background in computational biology. Originally from Colombia 🇨🇴 and now based in Sweden 🇸🇪. Previously a graduate student studying in the [BCEM Uniandes](https://bcem-uniandes.github.io/) lab at [Uniandes](https://www.uniandes.edu.co/). I have a keen interest in leveraging technology to derive data-driven insights. I am actively expanding my skill set to explore new opportunities in DS, driven by curiosity and a passion for continuous learning, particularly in emerging fields like AI.
+I am in the final stages of my PhD, specializing in genomics and bioinformatics, with a strong background in computational biology. Originally from Colombia 🇨🇴 and now based in Sweden 🇸🇪. Previously a graduate student studying in the [BCEM](https://bcem-uniandes.github.io/) lab at [Uniandes](https://www.uniandes.edu.co/). I have a keen interest in leveraging technology to derive data-driven insights. I am actively expanding my skill set to explore new opportunities in DS, driven by curiosity and a passion for continuous learning, particularly in emerging fields like AI.
 
 - 💬 Ask me about:
     - Transcriptome assembly
