@@ -38,6 +38,9 @@ I am in the final stages of my PhD, specializing in genomics and bioinformatics,
     - Bioinformatics
     - Statistical learning
     - ML
+
+![Bioinformática Badge](https://img.shields.io/badge/Bioinformatics-Pipeline-blue)
+
  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lachemontes&layout=compact)
