@@ -1,6 +1,5 @@
 [![Header](https://capsule-render.vercel.app/api?type=wave&section=header&color=222436&fontColor=659287&fontAlignY=50&height=250&text=Welcome%20to%20my%20GitHub&animation=fadeIn&fontSize=50)](https://github.com/lachemontes)
 
-<a href="https://www.linkedin.com/in/zaidemo/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="30" alt="LinkedIn" /></a>&nbsp;
 [![](https://visitcount.itsvg.in/api?id=lachemontes&label=mirones&color=0&icon=7&pretty=false)](https://visitcount.itsvg.in)
 
 ---
