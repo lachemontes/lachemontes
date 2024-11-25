@@ -21,8 +21,8 @@ I am passionate about leveraging technology to extract meaningful insights from 
 - **Bioinformatics:**  
   - Transcriptome assembly  
   - Gene/protein identification and prediction  
-  - High-performance computing (HPC) workflows  
-  - Statistical learning for biological data  
+  - HPC   
+  - Statistical learning 
 - **Emerging Interests:**  
   - AI applications in genomics  
 
