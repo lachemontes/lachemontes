@@ -1,5 +1,5 @@
 [![Header](https://capsule-render.vercel.app/api?type=wave&section=header&color=222436&fontColor=659287&fontAlignY=50&height=250&text=Welcome%20to%20my%20GitHub&animation=fadeIn&fontSize=50&link=https://github.com/lachemontes)](https://github.com/lachemontes)
-
+<a href="https://www.linkedin.com/in/zaidemo/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="30" alt="LinkedIn" /></a>&nbsp;
 
 
 <!--
@@ -44,7 +44,7 @@ I am in the final stages of my PhD, specializing in genomics and bioinformatics,
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lachemontes&layout=compact)
 
 
-<a href="https://www.linkedin.com/in/zaidemo/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="30" alt="LinkedIn" /></a>&nbsp;
+
 
 
 
