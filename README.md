@@ -1,52 +1,44 @@
-[![Header](https://capsule-render.vercel.app/api?type=wave&section=header&color=222436&fontColor=659287&fontAlignY=50&height=250&text=Welcome%20to%20my%20GitHub&animation=fadeIn&fontSize=50&link=https://github.com/lachemontes)](https://github.com/lachemontes)
+[![Header](https://capsule-render.vercel.app/api?type=wave&section=header&color=222436&fontColor=659287&fontAlignY=50&height=250&text=Welcome%20to%20my%20GitHub&animation=fadeIn&fontSize=50)](https://github.com/lachemontes)
+
 <a href="https://www.linkedin.com/in/zaidemo/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height="30" alt="LinkedIn" /></a>&nbsp;
-
-
-<!--
-**lachemontes/lachemontes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
 [![](https://visitcount.itsvg.in/api?id=lachemontes&label=mirones&color=0&icon=7&pretty=false)](https://visitcount.itsvg.in)
 
+---
 
+## 👋 Hi there,
+### I am **Zaide Montes Ortiz** 👩🏼‍💻 (she/her) 🌱✨🧬 
 
+I am in the final stages of my PhD, specializing in **genomics** and **bioinformatics**, with a strong foundation in **computational biology**.  
+Originally from **Colombia 🇨🇴** and now based in **Sweden 🇸🇪**, I previously conducted research in the [BCEM](https://bcem-uniandes.github.io/) lab at [Uniandes](https://www.uniandes.edu.co/).
 
-## Hi there,
-### I am Zaide 👩🏼‍💻 (she/her) 🌱✨🧬 
+✨ **What drives me?**  
+I am passionate about leveraging technology to extract meaningful insights from biological data. Currently, I am expanding my expertise in **Data Science (DS)**, **Machine Learning (ML)**, and **Artificial Intelligence (AI)** to tackle complex challenges in life sciences.
 
-I am in the final stages of my PhD, specializing in genomics and bioinformatics, with a strong background in computational biology. Originally from Colombia 🇨🇴 and now based in Sweden 🇸🇪. Previously a graduate student studying in the [BCEM](https://bcem-uniandes.github.io/) lab at [Uniandes](https://www.uniandes.edu.co/). I am actively expanding my skill set to explore new opportunities, driven by curiosity and a passion for continuous learning in DS, ML, and AI.
+---
 
-- 💬 Ask me about:
-    - Transcriptome assembly
-    - Gene/protein identification and prediction
-    - HPC
-    - R  
-    - Bash 
-    - Python 
-    - Bioinformatics
-    - Statistical learning
-    - ML
+## 🧰 Technical Skills 
+- **Programming:**  
+  R, Python, Bash  
+- **Bioinformatics:**  
+  - Transcriptome assembly  
+  - Gene/protein identification and prediction  
+  - High-performance computing (HPC) workflows  
+  - Statistical learning for biological data  
+- **Emerging Interests:**  
+  - AI applications in genomics  
 
+---
 
+## 📊 My GitHub Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lachemontes&layout=compact&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lachemontes&layout=compact)
+---
 
+## 💬 Let’s Connect
+Feel free to reach out if you want to talk about bioinformatics, genomics, or machine learning!  
+<a href="https://www.linkedin.com/in/zaidemo/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" height="25" alt="LinkedIn" /></a>
 
+---
 
-
-
-
-
-
+✨ Fun Fact:  
+I love exploring the intersection of **biology and technology**—unlocking new insights, one dataset at a time!
