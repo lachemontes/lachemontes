@@ -39,7 +39,7 @@ I am in the final stages of my PhD, specializing in genomics and bioinformatics,
     - Statistical learning
     - ML
 
-![Bioinformática Badge](https://img.shields.io/badge/Bioinformatics-Pipeline-blue)
+
 
  
 
