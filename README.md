@@ -41,4 +41,4 @@ Feel free to reach out if you want to talk about bioinformatics, genomics, or ma
 ---
 
 ✨ Fun Fact:  
-I love exploring the intersection of **biology and technology**—unlocking new insights, one dataset at a time!
+I find working with computers surprisingly relaxing—analyzing data feels like solving a puzzle I truly enjoy.
