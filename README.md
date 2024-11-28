@@ -1,6 +1,6 @@
 [![Header](https://capsule-render.vercel.app/api?type=wave&section=header&color=222436&fontColor=659287&fontAlignY=50&height=250&text=Welcome%20to%20my%20GitHub&animation=fadeIn&fontSize=50)](https://github.com/lachemontes)
 
-[![](https://visitcount.itsvg.in/api?id=lachemontes&label=mirones&color=0&icon=7&pretty=false)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=lachemontes&label=peekers&color=0&icon=7&pretty=false)](https://visitcount.itsvg.in)
 
 ---
 
