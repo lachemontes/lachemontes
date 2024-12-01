@@ -39,6 +39,3 @@ Feel free to reach out if you want to talk about bioinformatics, genomics, or ma
 <a href="https://www.linkedin.com/in/zaidemo/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" height="25" alt="LinkedIn" /></a>
 
 ---
-
-✨ Fun Fact:  
-I find working with computers surprisingly relaxing—analyzing data feels like solving a puzzle I truly enjoy.
