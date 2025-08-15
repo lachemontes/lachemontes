@@ -11,8 +11,7 @@ I am in the final stages of my PhD at [Lund University](https://www.lunduniversi
 Originally from **Colombia 🇨🇴** and now based in **Sweden 🇸🇪**, Previously a graduate student studying in the [BCEM](https://bcem-uniandes.github.io/) lab at [Uniandes](https://www.uniandes.edu.co/).
 
 ✨ **What drives me?**  
-I am passionate about leveraging technology to extract meaningful insights from biological data. Currently, I am expanding my knowledge in **Data Science (DS)**, **Machine Learning (ML)**, and **Artificial Intelligence (AI)** to tackle complex challenges in life sciences and Tech.
-
+I am passionate about taking action! I don’t wait for change, I make it happen.
 ---
 
 ## 🧰 Technical Skills 
