@@ -11,7 +11,7 @@ I am in the final stages of my PhD at [Lund University](https://www.lunduniversi
 
 ✨ **What drives me?**  
 
-I am passionate about taking action! I don’t wait for change, I make it happen.
+I advocate for taking action and making change happen 
 ---
 
 ## 🧰 Technical Skills 
